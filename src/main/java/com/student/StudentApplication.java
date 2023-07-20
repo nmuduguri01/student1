@@ -12,6 +12,8 @@ public class StudentApplication {
 		System.out.println("we are in main method..");
 
 		System.out.println("we are in main method..");
+		System.out.println("we are in main method..");
+		System.out.println("we are in main method..");
 	}
 
 }
