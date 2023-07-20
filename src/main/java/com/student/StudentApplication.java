@@ -10,6 +10,8 @@ public class StudentApplication {
 		SpringApplication.run(StudentApplication.class, args);
 		System.out.println(" we are in main method..");
 		System.out.println("we are in main method..");
+
+		System.out.println("we are in main method..");
 	}
 
 }
